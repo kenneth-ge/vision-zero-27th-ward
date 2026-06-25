@@ -1,15 +1,18 @@
 ## Vision Zero in the 27th Ward
 
-This summer, I got to help the 27th Ward improve traffic safety for our residents! Thanks to the Abundance (TM) I did a traffic crash analysis. 
+Helping the 27th Ward improve traffic safety for our residents, by leveraging an abundance of city data. 
 
-I identified 7 high-priority intersections, and proposed potential redesign recommendations. 
+I conducted a thorough analysis of the crashes in the Ward, and the intersections where they occur. I identified 7 high-priority intersections, and proposed potential redesign recommendations. 
 
 Thanks to the 27th Ward for an awesome internship, where I left feeling supported and empowered. 
 
 Thanks to Students for Abundance for introducing me to this opportunity and for supporting the internship!
 
 ## Write-up doc
-TBD! Check back
+Read more here: https://docs.google.com/document/d/1FbOw28Xn4KS0bcYiQDfQ2WtBL7eCBNV7UbeREZFoOsY/edit?usp=sharing
+
+## Contact
+Contact me on Substack messages: https://substack.com/@kennethge
 
 ## Data sources
 
