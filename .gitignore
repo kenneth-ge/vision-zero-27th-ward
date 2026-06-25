@@ -3,3 +3,5 @@ __pycache__
 GHS_POP
 census
 *.csv
+idot_aadt
+crime/
