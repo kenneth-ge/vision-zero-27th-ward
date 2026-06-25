@@ -1,8 +1,19 @@
+## Vision Zero in the 27th Ward
+
+This summer, I got to help the 27th Ward improve traffic safety for our residents! Thanks to the Abundance (TM) I did a traffic crash analysis. 
+
+I identified 7 high-priority intersections, and proposed potential redesign recommendations. 
+
+Thanks to the 27th Ward for an awesome internship, where I left feeling supported and empowered. 
+
+Thanks to Students for Abundance for introducing me to this opportunity and for supporting the internship!
+
+## Write-up doc
+TBD! Check back
+
 ## Data sources
 
-Crime 2016-onward: https://data.cityofchicago.org/resource/ijzp-q8t2.csv?$where=year>=2016&$limit=3000000
-
-Street business: https://gis-idot.opendata.arcgis.com/datasets/annual-average-daily-traffic-aadt/explore?location=41.875412%2C-87.634862%2C14
+See writeup
 
 ## Maps
 
